@@ -36,6 +36,16 @@ Statuses render each project's own declaration — **the list renders, never re-
 - 📖 [moreover](https://github.com/jlumbroso/moreover) — CLI pager · Python + Rust: a `less`/`more`-style pager for LLM readers; mixed human + AI crew, everything in the open — the worked example of [thirdx.design](https://thirdx.design). 🙋 🤝
 - 📖 [frontier-model-observatory](https://github.com/jlumbroso/frontier-model-observatory) — Knowledge substrate · data + HTML: temporal, provenance-first records of models, releases, and systems. 🙋
 - 📖 [porthole](https://github.com/jlumbroso/porthole) — VS Code extension · TypeScript: pop an HTML page out of VS Code's integrated browser into a small floating, always-on-top window. 🙋
+- 📖 [penn-path-scraper](https://github.com/jlumbroso/penn-path-scraper) — Scraper · Python: a real curriculum-scraping corpus whose 23 ADRs carry determinations generally useful for scrapers — could seed a scraper for another university. 🙋
+- 📖 [templated-exceptions](https://github.com/jlumbroso/templated-exceptions) — Library · Python: the historical bookend — a classic MADR record from before the AI-collaboration paradigm; the lineage, visible. 🙋
+
+## Learning &amp; teaching
+
+Course starters from **CAM / CIS 7000 (University of Pennsylvania)** that ship a genuine deliberation record *to students* — "choices live here, not in code":
+
+- 📖 [your-first-instrument](https://github.com/jlumbroso/your-first-instrument) — Course starter · Python · CAM / CIS 7000: six public student copies already carry its record forward. 🙋
+- 📖 [your-protected-notes](https://github.com/jlumbroso/your-protected-notes) — Course starter · Python · CAM / CIS 7000: "self-contained ADRs," in its own words. 🙋
+- 📖 [your-first-memory](https://github.com/jlumbroso/your-first-memory) — Course starter · Python · CAM / CIS 7000. 🙋
 
 ## Add yours
 
