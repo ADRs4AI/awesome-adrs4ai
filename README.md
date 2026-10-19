@@ -13,14 +13,23 @@ Every row says two honest things: Whether the project's **deliberation record** 
 
 Statuses render each project's own declaration — **the list renders, never re-rules.**
 
-## The toolkit
+## Methodology &amp; template
 
 - 📖 [human-ai-collaboration-template-A](https://github.com/ADRs4AI/human-ai-collaboration-template-A) — the canonical methodology template; start here. Citable: [DOI 10.5281/zenodo.23303469](https://doi.org/10.5281/zenodo.23303469). 🙋 🤝
+
+## Editor &amp; clients
+
 - 📘 [ADRs for AI Manager](https://marketplace.visualstudio.com/items?itemName=jlumbroso.adrs4ai) — VS Code extension: Open-questions views, diagnostics as you type, deep links, an MCP server for your agents. Also on [Open VSX](https://open-vsx.org/extension/jlumbroso/adrs4ai). 🙋
+- 📘 [ADRs for AI](https://apps.apple.com/app/id6805589572) — the iOS client: Your open questions in your pocket; one-tap Accept lands real answers as commits. 🙋
+
+## Crew &amp; automation
+
 - 📘 [pneumatic](https://pypi.org/project/adrs4ai-pneumatic/) — cross-vendor AI-crew session tooling: Read messages, classify seat health, wake and launch seats ([docs](https://adrs.systems/pneumatic/)). 🙋
+- 📖 [free-disk-space](https://github.com/jlumbroso/free-disk-space) — the GitHub Action running in thousands of CI pipelines daily — with its deliberation record open in-tree. 🙋 🤝
+
+## Community
+
 - 📖 [community](https://github.com/ADRs4AI/community) — the front desk: Org Discussions and public intake, with a born-public deliberation record. 🙋
-- 📘 [codetour-cli](https://pypi.org/project/codetour-cli/) — CodeTour from the command line, with an MCP server for agent-guided tours. 🙋
-- 📘 [json-source-edit](https://pypi.org/project/json-source-edit/) — surgical, format-preserving JSON edits ([docs](https://lumbroso-commons.github.io/json-source-edit/)). 🙋
 
 ## Projects practicing
 
