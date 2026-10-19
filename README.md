@@ -19,11 +19,14 @@ Statuses render each project's own declaration — **the list renders, never re-
 - 📘 [ADRs for AI Manager](https://marketplace.visualstudio.com/items?itemName=jlumbroso.adrs4ai) — VS Code extension: Open-questions views, diagnostics as you type, deep links, an MCP server for your agents. Also on [Open VSX](https://open-vsx.org/extension/jlumbroso/adrs4ai). 🙋
 - 📘 [pneumatic](https://pypi.org/project/adrs4ai-pneumatic/) — cross-vendor AI-crew session tooling: Read messages, classify seat health, wake and launch seats ([docs](https://adrs.systems/pneumatic/)). 🙋
 - 📖 [community](https://github.com/ADRs4AI/community) — the front desk: Org Discussions and public intake, with a born-public deliberation record. 🙋
+- 📘 [codetour-cli](https://pypi.org/project/codetour-cli/) — CodeTour from the command line, with an MCP server for agent-guided tours. 🙋
+- 📘 [json-source-edit](https://pypi.org/project/json-source-edit/) — surgical, format-preserving JSON edits ([docs](https://lumbroso-commons.github.io/json-source-edit/)). 🙋
 
 ## Projects practicing
 
 - 📖 [moreover](https://github.com/jlumbroso/moreover) — a `less`/`more`-style pager for LLM readers; mixed human + AI crew, everything in the open. 🙋 🤝
 - 📖 [frontier-model-observatory](https://github.com/jlumbroso/frontier-model-observatory) — a temporal, provenance-first knowledge substrate for models, releases, and systems. 🙋
+- 📖 [porthole](https://github.com/jlumbroso/porthole) — pop an HTML page out of VS Code's integrated browser into a small floating, always-on-top window. 🙋
 
 ## Add yours
 
