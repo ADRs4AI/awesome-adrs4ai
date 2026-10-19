@@ -15,27 +15,27 @@ Statuses render each project's own declaration — **the list renders, never re-
 
 ## Methodology &amp; template
 
-- 📖 [human-ai-collaboration-template-A](https://github.com/ADRs4AI/human-ai-collaboration-template-A) — the canonical methodology template; start here. Citable: [DOI 10.5281/zenodo.23303469](https://doi.org/10.5281/zenodo.23303469). 🙋 🤝
+- 📖 [human-ai-collaboration-template-A](https://github.com/ADRs4AI/human-ai-collaboration-template-A) — Project template · Python tooling — the canonical methodology template; start here. Citable: [DOI 10.5281/zenodo.23303469](https://doi.org/10.5281/zenodo.23303469). 🙋 🤝
 
 ## Editor &amp; clients
 
-- 📘 [ADRs for AI Manager](https://marketplace.visualstudio.com/items?itemName=jlumbroso.adrs4ai) — VS Code extension: Open-questions views, diagnostics as you type, deep links, an MCP server for your agents. Also on [Open VSX](https://open-vsx.org/extension/jlumbroso/adrs4ai). 🙋
-- 📘 [ADRs for AI](https://apps.apple.com/app/id6805589572) — the iOS client: Your open questions in your pocket; one-tap Accept lands real answers as commits. 🙋
+- 📘 [ADRs for AI Manager](https://marketplace.visualstudio.com/items?itemName=jlumbroso.adrs4ai) — VS Code extension · TypeScript: Open-questions views, diagnostics as you type, deep links, an MCP server for your agents. Also on [Open VSX](https://open-vsx.org/extension/jlumbroso/adrs4ai). 🙋
+- 📘 [ADRs for AI](https://apps.apple.com/app/id6805589572) — iOS app · Swift: Your open questions in your pocket; one-tap Accept lands real answers as commits. 🙋
 
 ## Crew &amp; automation
 
-- 📘 [pneumatic](https://pypi.org/project/adrs4ai-pneumatic/) — cross-vendor AI-crew session tooling: Read messages, classify seat health, wake and launch seats ([docs](https://adrs.systems/pneumatic/)). 🙋
-- 📖 [free-disk-space](https://github.com/jlumbroso/free-disk-space) — the GitHub Action running in thousands of CI pipelines daily — with its deliberation record open in-tree. 🙋 🤝
+- 📘 [pneumatic](https://pypi.org/project/adrs4ai-pneumatic/) — CLI + library · Python: cross-vendor AI-crew session tooling — read messages, classify seat health, wake and launch seats ([docs](https://adrs.systems/pneumatic/)). 🙋
+- 📖 [free-disk-space](https://github.com/jlumbroso/free-disk-space) — GitHub Action · shell: running in thousands of CI pipelines daily — with its deliberation record open in-tree. 🙋 🤝
 
 ## Community
 
-- 📖 [community](https://github.com/ADRs4AI/community) — the front desk: Org Discussions and public intake, with a born-public deliberation record. 🙋
+- 📖 [community](https://github.com/ADRs4AI/community) — Front desk · org Discussions: public intake, with a born-public deliberation record. 🙋
 
 ## Projects practicing
 
-- 📖 [moreover](https://github.com/jlumbroso/moreover) — a `less`/`more`-style pager for LLM readers; mixed human + AI crew, everything in the open. 🙋 🤝
-- 📖 [frontier-model-observatory](https://github.com/jlumbroso/frontier-model-observatory) — a temporal, provenance-first knowledge substrate for models, releases, and systems. 🙋
-- 📖 [porthole](https://github.com/jlumbroso/porthole) — pop an HTML page out of VS Code's integrated browser into a small floating, always-on-top window. 🙋
+- 📖 [moreover](https://github.com/jlumbroso/moreover) — CLI pager · Python + Rust: a `less`/`more`-style pager for LLM readers; mixed human + AI crew, everything in the open — the worked example of [thirdx.design](https://thirdx.design). 🙋 🤝
+- 📖 [frontier-model-observatory](https://github.com/jlumbroso/frontier-model-observatory) — Knowledge substrate · data + HTML: temporal, provenance-first records of models, releases, and systems. 🙋
+- 📖 [porthole](https://github.com/jlumbroso/porthole) — VS Code extension · TypeScript: pop an HTML page out of VS Code's integrated browser into a small floating, always-on-top window. 🙋
 
 ## Add yours
 
